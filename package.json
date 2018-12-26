@@ -40,7 +40,7 @@
     "jquery-ui": "^1.12.1",
     "jquery-ui-dist": "^1.12.1",
     "jquery.iframe-transport": "^1.0.0",
-    "less": "less/less.js#efa6eb5306f28a7ef7e235d79ce854b780345591",
+    "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "papaparse": "^4.6.2",
     "select2": "^4.0.5",
