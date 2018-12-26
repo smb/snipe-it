@@ -10572,9 +10572,9 @@
       }
     },
     "tether": {
-      "version": "1.4.4",
-      "resolved": "https://registry.npmjs.org/tether/-/tether-1.4.4.tgz",
-      "integrity": "sha1-ncbrKz5gHaIJj9Jk5/eosmTeESU="
+      "version": "1.4.5",
+      "resolved": "https://registry.npmjs.org/tether/-/tether-1.4.5.tgz",
+      "integrity": "sha512-fysT1Gug2wbRi7a6waeu39yVDwiNtvwj5m9eRD+qZDSHKNghLo6KqP/U3yM2ap6TNUL2skjXGJaJJTJqoC31vw=="
     },
     "through": {
       "version": "2.3.8",
