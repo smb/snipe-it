@@ -2527,9 +2527,9 @@
       "integrity": "sha512-F1yTDO9OHKH0xjl03DsOe8Nu1OWBIeAugGMhy3UTIYDdbbIPesQIhCEbj+HEr6wqlwweGAlP8F3OBC6kEuhFuw=="
     },
     "bootstrap-colorpicker": {
-      "version": "2.5.2",
-      "resolved": "https://registry.npmjs.org/bootstrap-colorpicker/-/bootstrap-colorpicker-2.5.2.tgz",
-      "integrity": "sha1-M7+yBDSF8S3LPfD2CtFxdizDwOQ=",
+      "version": "2.5.3",
+      "resolved": "https://registry.npmjs.org/bootstrap-colorpicker/-/bootstrap-colorpicker-2.5.3.tgz",
+      "integrity": "sha512-xdllX8LSMvKULs3b8JrgRXTvyvjkSMHHHVuHjjN5FNMqr6kRe5NPiMHFmeAFjlgDF73MspikudLuEwR28LbzLw==",
       "requires": {
         "jquery": ">=1.10"
       }
