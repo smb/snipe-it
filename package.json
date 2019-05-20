@@ -27,7 +27,7 @@
     "blueimp-file-upload": "^9.28.0",
     "bootstrap": "^3.4.0",
     "bootstrap-colorpicker": "^2.5.1",
-    "bootstrap-datepicker": "^1.6.4",
+    "bootstrap-datepicker": "^1.9.0",
     "bootstrap-less": "^3.3.8",
     "bootstrap-table": "^1.12.2",
     "chart.js": "^2.7.2",
