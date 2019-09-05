@@ -41,7 +41,7 @@
     "tecnickcom/tc-lib-barcode": "^1.15",
     "tightenco/ziggy": "^0.6.3",
     "unicodeveloper/laravel-password": "^1.0",
-    "watson/validating": "3.1.7"
+    "watson/validating": "3.3.0"
   },
   "require-dev": {
     "barryvdh/laravel-debugbar": "^3.2",
