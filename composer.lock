@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "fac7e8b237f1d78fb4057766c2c47da5",
@@ -6352,16 +6352,16 @@
         },
         {
             "name": "tecnickcom/tc-lib-barcode",
-            "version": "1.15.12",
+            "version": "1.15.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/tc-lib-barcode.git",
-                "reference": "db37f9b1f0cbd44327306d437886ef7ab89024dc"
+                "reference": "dd8de5620ec436d61cc8535e11f2879146ebc16b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/tc-lib-barcode/zipball/db37f9b1f0cbd44327306d437886ef7ab89024dc",
-                "reference": "db37f9b1f0cbd44327306d437886ef7ab89024dc",
+                "url": "https://api.github.com/repos/tecnickcom/tc-lib-barcode/zipball/dd8de5620ec436d61cc8535e11f2879146ebc16b",
+                "reference": "dd8de5620ec436d61cc8535e11f2879146ebc16b",
                 "shasum": ""
             },
             "require": {
@@ -6370,7 +6370,7 @@
                 "ext-gd": "*",
                 "ext-pcre": "*",
                 "php": ">=5.3",
-                "tecnickcom/tc-lib-color": "^1.12.12"
+                "tecnickcom/tc-lib-color": "^1.12.15"
             },
             "require-dev": {
                 "apigen/apigen": "^2.8.1 || ^4.1.2",
@@ -6438,20 +6438,20 @@
                 "tc-lib-barcode",
                 "upc"
             ],
-            "time": "2018-06-23T10:43:40+00:00"
+            "time": "2020-01-02T16:01:18+00:00"
         },
         {
             "name": "tecnickcom/tc-lib-color",
-            "version": "1.12.12",
+            "version": "1.12.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/tc-lib-color.git",
-                "reference": "bfb8e97975ef9979e808adb464a2bb27052c7115"
+                "reference": "2f4860cbac4d58c210b6bec4c5806906278962c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/tc-lib-color/zipball/bfb8e97975ef9979e808adb464a2bb27052c7115",
-                "reference": "bfb8e97975ef9979e808adb464a2bb27052c7115",
+                "url": "https://api.github.com/repos/tecnickcom/tc-lib-color/zipball/2f4860cbac4d58c210b6bec4c5806906278962c1",
+                "reference": "2f4860cbac4d58c210b6bec4c5806906278962c1",
                 "shasum": ""
             },
             "require": {
@@ -6501,7 +6501,7 @@
                 "tc-lib-color",
                 "web"
             ],
-            "time": "2018-06-23T09:21:30+00:00"
+            "time": "2020-01-02T16:01:17+00:00"
         },
         {
             "name": "tightenco/collect",
@@ -6923,6 +6923,7 @@
                 "psr",
                 "psr-7"
             ],
+            "abandoned": "laminas/laminas-diactoros",
             "time": "2018-09-05T19:29:37+00:00"
         }
     ],
@@ -7984,6 +7985,7 @@
                 "mock",
                 "xunit"
             ],
+            "abandoned": true,
             "time": "2018-05-29T13:54:20+00:00"
         },
         {
