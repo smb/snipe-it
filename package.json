@@ -43,7 +43,7 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "papaparse": "^4.6.2",
-    "select2": "^4.0.5",
+    "select2": "^4.0.13",
     "tableexport.jquery.plugin": "^1.9.15",
     "tether": "^1.4.5",
     "vue-resource": "^1.5.1"
