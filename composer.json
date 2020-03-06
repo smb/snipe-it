@@ -31,7 +31,7 @@
     "neitanod/forceutf8": "^2.0",
     "patchwork/utf8": "~1.2",
     "phpdocumentor/reflection-docblock": "3.2.2",
-    "phpspec/prophecy": "1.7.5",
+    "phpspec/prophecy": "1.10.3",
     "pragmarx/google2fa": "^3.0",
     "pragmarx/google2fa-laravel": "^0.2.0",
     "predis/predis": "^1.1",
