@@ -44,7 +44,7 @@
     "less-loader": "^4.1.0",
     "papaparse": "^4.6.2",
     "select2": "^4.0.5",
-    "tableexport.jquery.plugin": "^1.9.15",
+    "tableexport.jquery.plugin": "^1.10.19",
     "tether": "^1.4.5",
     "vue-resource": "^1.5.1"
   }
